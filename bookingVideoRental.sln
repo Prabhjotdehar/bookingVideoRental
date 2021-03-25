@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bookingVideoRental", "bookingVideoRental\bookingVideoRental.csproj", "{3123EE95-9428-41AD-8D1D-8649262D2712}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bookingVideoRentalTests", "bookingVideoRentalTests\bookingVideoRentalTests.csproj", "{A7E4C9A0-732D-4D49-97E9-0BDAC421A519}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3123EE95-9428-41AD-8D1D-8649262D2712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3123EE95-9428-41AD-8D1D-8649262D2712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3123EE95-9428-41AD-8D1D-8649262D2712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3123EE95-9428-41AD-8D1D-8649262D2712}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7E4C9A0-732D-4D49-97E9-0BDAC421A519}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7E4C9A0-732D-4D49-97E9-0BDAC421A519}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7E4C9A0-732D-4D49-97E9-0BDAC421A519}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7E4C9A0-732D-4D49-97E9-0BDAC421A519}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {739CB5C8-E0B5-4900-B48A-23F409A4CBF5}
+	EndGlobalSection
+EndGlobal
